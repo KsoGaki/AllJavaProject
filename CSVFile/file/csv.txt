@@ -1,0 +1,4 @@
+Nom,Prenom,Age,E-mail
+Valjean,Jean,56,jval@laposte.fr
+Reymond,Pierre,65,ireb@laposte.fr
+Lamenace,Max,22,maxla@laposte.fr
